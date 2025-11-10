@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulbasitOpeyemi
 - 👀 I’m interested in a job
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on excel, powerbi, sql projects
+- 🌱 I’m currently learning data science and software engineering
+- 💞️ I’m looking to collaborate on excel, powerbi, sql, HTML, CSS, JAVA script projects
 - 📫 How to reach me is.haqabdulbasitopeyemi@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: i am a music and nature lover, plus i love numbers
